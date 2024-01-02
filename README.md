@@ -33,6 +33,7 @@ for _ in range(max):
 print(f"Square root of the number: {new}")
 ```
 ## Output:
-![Uploading image.png…]()
+![Uploading Screenshot 2024-01-02 133724.png…]()
+
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
